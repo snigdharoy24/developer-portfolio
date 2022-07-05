@@ -19,8 +19,14 @@ h1 {
 .versity {
     font-weight: bold;
     color: rgb(75, 26, 7);
+    font-size: 20px;
+
 }
 
 section {
     display: flex;
+}
+
+.halfwidth {
+    width: 50%;
 }
