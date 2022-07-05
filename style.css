@@ -1,6 +1,7 @@
 body {
 
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 h1 {
@@ -39,6 +40,17 @@ section {
 
 .hire {
     text-decoration: none;
-    background-color: burlywood;
-    padding: 5px 10px 5px 10px;
+    background-image: linear-gradient(rgb(129, 255, 129) green);
+    padding: 3px 10px 3px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 3px;
+    background-image: linear-gradient(rgb(158, 211, 108) rgb(6, 216, 6));
+    background-color: darkgoldenrod;
+
+}
+
+
+.opposite {
+    margin-top: 150px;
 }
