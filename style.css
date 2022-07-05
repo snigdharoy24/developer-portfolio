@@ -1,16 +1,26 @@
-body{
-    
+body {
+
     font-family: 'Poppins', sans-serif;
 }
-h1{
+
+h1 {
     font-size: 55px;
 }
-.name{color: rgb(135, 248, 69);}
-.work{
+
+.name {
+    color: rgb(135, 248, 69);
+}
+
+.work {
     font-weight: bold;
     color: rgb(22, 83, 6);
 }
-.versity{
+
+.versity {
     font-weight: bold;
     color: rgb(75, 26, 7);
-}   
+}
+
+section {
+    display: flex;
+}
