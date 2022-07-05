@@ -24,7 +24,7 @@ h1 {
 
 }
 
-section {
+.flexible {
     display: flex;
 }
 
@@ -53,4 +53,12 @@ section {
 
 .opposite {
     margin-top: 150px;
+}
+
+.experience {
+    display: flex;
+}
+
+section {
+    display: flex;
 }
